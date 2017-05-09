@@ -5095,7 +5095,7 @@
 0 0 -1 -1 2 1 #"\0"
 0 -1 1 #"\0"
 1.0 0 -1 92 -1 93 -1 -1 0 1 0 0 0 0 0.0 0.0 0.0 1.0 1.0 1.0 255 38 39 0
-0 0 -1 -1           0 862 0 4 3 85
+0 0 -1 -1           0 864 0 4 3 85
 (
  #";; The first three lines of this file were inserted by DrRacket. The"
  #"y record metadata"
@@ -6274,6 +6274,8 @@
 0 0 24 29 1 #"\n"
 0 0 17 3 28 #";;  - (cons Bear ListOfBear)"
 0 0 24 29 1 #"\n"
+0 0 17 3 24 #";; interp. List of Bears"
+0 0 24 29 1 #"\n"
 0 0 24 3 1 #"("
 0 0 15 3 6 #"define"
 0 0 24 3 1 #" "
@@ -6799,7 +6801,7 @@
 0 0 24 29 1 #"\n"
 0 0 17 3 22 #";; Bear Image -> Image"
 0 0 24 29 1 #"\n"
-0 0 17 3 29 #";; reader bear image on scene"
+0 0 17 3 33 #";; render bear and image on scene"
 0 0 24 29 1 #"\n"
 0 0 24 3 1 #"("
 0 0 14 3 12 #"check-expect"
